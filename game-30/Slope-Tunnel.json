@@ -1,0 +1,16 @@
+{
+"companyName": "mhdhammod",
+"productName": "Slope Tunnel",
+"productVersion": "1",
+"dataUrl": "https://slptnl-files.pages.dev/Slope%20Tunnel%20GOGY.data.unityweb",
+"wasmCodeUrl": "https://slptnl-files.pages.dev/Slope Tunnel GOGY.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://slptnl-files.pages.dev/Slope%20Tunnel%20GOGY.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
